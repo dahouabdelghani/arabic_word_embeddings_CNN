@@ -1,4 +1,4 @@
-Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification (CoLing 2017)
+Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification (CoLing 2016)
 --------------
 
 In this paper, a scheme of Arabic sentiment classification, which evaluates and detects the sentiment polarity from Arabic
