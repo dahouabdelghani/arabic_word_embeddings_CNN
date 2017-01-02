@@ -14,7 +14,7 @@ Subdirectories:
 - Arabic_WE_eval - Arabic Word Embeddings models evaluation using Arabic word analogies
 - Arabic_WE_model - Arabic Word Embeddings models
 - CNN - Convolutional Neural Network to train and evalute Arabic sentiment classification task
-- Weights - best weights from training will be saved in this folder
+- Weights - Best weights from training will be saved in this folder
 
 
 Requirements
@@ -33,7 +33,8 @@ Output example on ASTD unbalanced dataset
 
           0       0.82      0.85      0.83       362
           1       0.66      0.61      0.64       178
-avg / total       0.77      0.77      0.77       540
+        avg / total       0.77      0.77      0.77       540
+
 
 
 Citation
