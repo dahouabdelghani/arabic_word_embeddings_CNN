@@ -26,7 +26,7 @@ Requirements
 Script is running on GPU
 
 
-Ouput example on ASTD unbalanced dataset
+Output example on ASTD unbalanced dataset
 --------------
 
              precision    recall  f1-score   support
