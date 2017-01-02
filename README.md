@@ -15,7 +15,9 @@ Subdirectories:
 - Arabic_WE_model - Arabic Word Embeddings models
 - CNN - Convolutional Neural Network to train and evalute Arabic sentiment classification task
 - Weights - Best weights from training will be saved in this folder
-
+- Datasets - Datasets for training and evaluation
+	- data_csv_balanced
+	- data_csv_unbalanced
 
 Requirements
 --------------
