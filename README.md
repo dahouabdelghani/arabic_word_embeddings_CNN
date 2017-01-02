@@ -5,8 +5,16 @@ reviews and Arabic social media, is studied.  We investigated in several archite
 
 Paper: https://www.aclweb.org/anthology/C/C16/C16-1228.pdf
 
+Project Layout
+--------------
+
+Subdirectories:
+
+- Arabic_WE_eval - Arabic Word Embeddings models evaluation using Arabic word analogies
+- Arabic_WE_model - Arabic Word Embeddings models
+- CNN - Convolutional Neural Network to train and evalute Arabic sentiment classification task
 
 Citation:
-
+------------------
 Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification.
 
