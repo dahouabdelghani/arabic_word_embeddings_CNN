@@ -15,13 +15,16 @@ Subdirectories:
 - Arabic_WE_model - Arabic Word Embeddings models
 - CNN - Convolutional Neural Network to train and evalute Arabic sentiment classification task
 - Weights - best weights from training will be saved in this folder
-Requirments
+
+
+Requirements
 --------------
 - Keras 0.3.3
 - Theano
 - Cuda
 
 Script is running on GPU
+
 
 Ouput example on ASTD unbalanced dataset
 --------------
@@ -30,7 +33,6 @@ Ouput example on ASTD unbalanced dataset
 
           0       0.82      0.85      0.83       362
           1       0.66      0.61      0.64       178
-
 avg / total       0.77      0.77      0.77       540
 
 
