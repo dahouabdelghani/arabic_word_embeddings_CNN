@@ -29,11 +29,11 @@ Script is running on GPU
 Output example on ASTD unbalanced dataset
 ----------------------------------------------------------------------
 
-				    precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
-				 0       0.82      0.85      0.83       362
-				 1       0.66      0.61      0.64       178
-			avg / total      0.77      0.77      0.77       540
+                 0       0.82      0.85      0.83       362
+                 1       0.66      0.61      0.64       178
+        avg / total      0.77      0.77      0.77       540
 
 
 
