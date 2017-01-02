@@ -15,7 +15,7 @@ Subdirectories:
 - Arabic_WE_model - Arabic Word Embeddings models
 - CNN - Convolutional Neural Network to train and evalute Arabic sentiment classification task
 
-Citation:
+Citation
 ------------------
 Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification.
 
