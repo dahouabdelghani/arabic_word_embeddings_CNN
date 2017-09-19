@@ -7,6 +7,8 @@ reviews and Arabic social media, is studied.  We investigated in several archite
 - Paper: https://www.aclweb.org/anthology/C/C16/C16-1228.pdf
 - Data on Baidu (In Chinese): http://pan.baidu.com/s/1eS2mxCe
 - Data on Google drive: https://drive.google.com/open?id=0B2WzDD9FC2KXRHlYNjYxUmowRW8
+
+
 Project Layout
 --------------
 
