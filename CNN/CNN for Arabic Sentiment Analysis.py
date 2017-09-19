@@ -218,7 +218,6 @@ def NN_nets_r0(embeddings,file_name,max_sent_len,Vectors,Linked,Round):
   if num_classes != 2: results = results.argmax(axis=-1)
   else: results = (results > 0.5).astype('int32')
   print ("Accuracy-sklearn = " + repr( sklearn.metrics.accuracy_score( test_labels , results )  ))
-  print 'RMSE',np.sqrt(((results - test_labels) ** 2).mean(axis=0)).mean()  # Printing RMSE
   print (sklearn.metrics.classification_report( test_labels , results ))
 
 
